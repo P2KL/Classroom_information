@@ -1,4 +1,3 @@
-haha
 <pre>
       ___           ___           ___       ___       ___     
      /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -12,3 +11,5 @@ haha
      /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
      \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
+
+this is infromation for my classroom that i study this term (2567/2024)
